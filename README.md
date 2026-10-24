@@ -4,6 +4,11 @@
 Configured EFI for Lenovo Thinkpad X1 Yoga Gen 2 using [OpCore-Simplify](https://github.com/lzhoang2801/OpCore-Simplify), Tested with <b>Ventura 13.7.8</b>
 
 
+
+![](Images/Screenshot.png)
+
+
+
 # My Verdict?
 - Performance is unexpectedly good for a general user with good multitasking as well
 - No unusual lags, no random reboots
