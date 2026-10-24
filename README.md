@@ -1,0 +1,1 @@
+# OpenCore_EFI_Thinkpad_X1_Yoga_Gen2
