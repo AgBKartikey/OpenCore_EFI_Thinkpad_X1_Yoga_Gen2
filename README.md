@@ -31,7 +31,7 @@ Configured EFI for Lenovo Thinkpad X1 Yoga Gen 2 using [OpCore-Simplify](https:/
 
 # What's Not Working?
 - Type-C Hotplug (Thunderbolt Limitation)
-- 3.5mm Headphone Audio Jack (Tested Layout IDs 47,72,11,21 But Couldnt make it work, If you have time try 28,13,22
+- 3.5mm Headphone Audio Jack (Tested Layout IDs 47,72,11,21 But Couldnt make it work, If you have time try 28,13,22)
 
 # Not Tested?
 - Touch Screen & Pen (Display Physically Cracked 😓)
@@ -42,3 +42,8 @@ Configured EFI for Lenovo Thinkpad X1 Yoga Gen 2 using [OpCore-Simplify](https:/
 - Disable Secureboot
 - Enable UEFI
 - And a few more (Too lazy to boot into BIOS and check🥱)
+
+# Post-Install
+- Replace config.plist file inside EFI/OC/
+- Disables verbose screen, Enables Apple Boot Animation
+- Hides OpenCore Boot Menu (Lenovo Boot Screen -> Apple Boot Animation with Progress Bar)
